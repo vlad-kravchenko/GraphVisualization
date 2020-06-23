@@ -1,2 +1,5 @@
-# GraphVisualization
-Simple graph construction and visualization
+Редактор графов на WinForms.
+
+Доступно добавление/удаление вершин и рёбер, очистка поля.
+
+Реализовано через кастомный контрол.
